@@ -5,3 +5,5 @@ ana
 henrique
 rebeca
 maria
+jose
+claudio
